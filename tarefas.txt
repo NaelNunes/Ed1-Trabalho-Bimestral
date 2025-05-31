@@ -1,0 +1,43 @@
+Urgente,20,Consertar ar condicionado
+Opcional,15,Criar campanhas de marketing
+Normal,8,Revisar documentos
+Urgente,15,Falta de materia-prima 'plastico'
+Normal,12,Atualizar site
+Urgente,20,Reparar maquina de embalagem
+Opcional,20,Criar conteudo para blog
+Urgente,10,Revisar orcamento
+Normal,6,Limpar area de trabalho
+Urgente,5,Verificar sistema eletrico
+Opcional,5,Desenvolver aplicativo
+Normal,5,Preparar relatorio mensal
+Urgente,8,Reparar impressora
+Normal,8,Enviar e-mails
+Opcional,12,Estudar novas tecnologias
+Urgente,12,Problema de qualidade em produtos
+Normal,10,Montar apresentacao
+Urgente,15,Ajustar maquina de costura
+Opcional,18,Implementar feedbacks
+Normal,12,Fazer inventario
+Urgente,20,Inspecionar seguranca
+Normal,10,Planejar reuniao
+Opcional,20,Melhorar comunicacao interna
+Urgente,12,Corrigir vazamento de agua
+Normal,12,Analisar feedbacks
+Opcional,15,Treinamento em vendas
+Urgente,20,Resolver falha de software
+Normal,10,Montar quebra cabeca
+Opcional,15,Otimizar uso de recursos
+Urgente,20,Consertar elevador
+Normal,8,Organizar eventos
+Opcional,25,Otimizar processos administrativos
+Urgente,15,Resolver falha de rede
+Normal,12,Montar cronograma de atividades
+Opcional,15,Criar campanhas de fidelizacao
+Urgente,20,Inspecionar equipamentos
+Normal,6,Fazer follow-up com clientes
+Urgente,10,Verificar sistema eletrico
+Normal,12,Atualizar planilhas
+Opcional,20,Treinamento em seguranca
+Urgente,10,Revisar orcamento
+Normal,10,Preparar material de apoio
+Opcional,25,Criar manual do usuario
